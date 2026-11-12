@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * La lista cambia de tamaño dinámicamente, que es la gran ventaja
  * de un ArrayList frente a un array normal.
  */
-public class ListaCompras {
+public class listaCompras {
 
     public static void main(String[] args) {
 
